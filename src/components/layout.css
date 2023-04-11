@@ -1,0 +1,15 @@
+/* LAYOUT */
+
+body {margin: 0;}
+
+.container {display: flex; flex-direction: column; max-width: 1200px; margin: 0 auto; min-height: 100vh;}
+header {flex-basis: 6rem;}
+main {flex: 1;}
+footer {flex-basis: 3rem;}
+
+/* PRESENTATION */
+
+ul {list-style-type: none; padding-left: 0;}
+ul li {flex: 1;}
+ul a {display: block; text-align: center; background-color: #ddc;}
+ul a:hover {background-color: #eed;}
