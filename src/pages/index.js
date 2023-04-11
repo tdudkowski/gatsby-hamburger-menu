@@ -9,6 +9,8 @@ const IndexPage = () => {
 
 <p>This is a demonstration site for a blog entry <a href="https://dygresje.info/blog/gatsby-menu/">"Gatsby cz. 8 - menu RWD z Hamburgerem"</a> in  <a href="https://dygresje.info/blog/gatsby/">Hello, Gatsby!</a> on my homesite.</p>
 
+<p>Github repo: <a href="https://github.com/tdudkowski/gatsby-hamburger-menu">tdudkowski / gatsby-hamburger-menu</a></p>
+
 <h2>1. Requirements</h2>
 
 <ul>

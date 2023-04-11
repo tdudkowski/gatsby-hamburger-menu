@@ -4,6 +4,8 @@ The simplest hamburger menu for Gatsby. Minimal (and described) presentation cod
 
 This is a demonstration site for a blog entry ["Gatsby cz. 8 - menu RWD z Hamburgerem"](https://dygresje.info/blog/gatsby-menu/) in [Hello, Gatsby!](https://dygresje.info/blog/gatsby/) on my homesite.
 
+Live site [Gatsby Hamburger Demo](https://gatsby-hamburger-menu.netlify.app/)
+
 ## Requirements
 
 - git
